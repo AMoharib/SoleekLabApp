@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328071551912",
+    "firebase_url": "https://soleeklabapp.firebaseio.com",
+    "project_id": "soleeklabapp",
+    "storage_bucket": "soleeklabapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328071551912:android:25782dee50a9a786",
+        "android_client_info": {
+          "package_name": "com.amoharib.soleeklabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328071551912-brivv81mh3ve086jee8k82facrh0bnr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amoharib.soleeklabapp",
+            "certificate_hash": "4511993213efdce1d0ed7d7f2a0a963e91eca98f"
+          }
+        },
+        {
+          "client_id": "328071551912-lbmorsp9hfbd7lmg0798v64fqp4jvgpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMBr15lhy7fBy7aa48gqOaeJ3y354Ef8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328071551912-lbmorsp9hfbd7lmg0798v64fqp4jvgpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

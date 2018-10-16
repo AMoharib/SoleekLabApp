@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SoleekLabApp</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="new_user">New User?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="required_field">Required Field</string>
+    <string name="default_loader_message">Loading…</string>
+    <string name="logging_in_message">Logging You In…</string>
+    <string name="passwords_not_matched">Passwords Not Matched</string>
+    <string name="existing_user">Existing User?</string>
+    <string name="creating_new_user">Creating New User…</string>
+    <string name="logout">LOGOUT</string>
+    <string name="all_countries">All Countries</string>
+</resources>
